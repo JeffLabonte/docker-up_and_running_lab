@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/JeffLabonte/docker-up_and_running_lab#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
